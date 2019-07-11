@@ -51,5 +51,10 @@ Bullet list can be done with '*' or '-':
 - Here is one with a dash
     - here is a subitem (indent with 4 spaces!)
 
+### Links
+
+HTML links work as this [link to Google](www.google.com)
+
+
 
 
