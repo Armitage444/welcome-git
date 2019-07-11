@@ -55,6 +55,10 @@ Bullet list can be done with '*' or '-':
 
 HTML links work as this [link to Google](www.google.com)
 
+### Images
 
+We can include images like this:
+![Giant's Causeway](causeway.jpg)
 
+git add causeway.jpg
 
